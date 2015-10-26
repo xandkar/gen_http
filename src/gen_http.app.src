@@ -1,7 +1,7 @@
 %%% vim: set nowrap textwidth=500 filetype=erlang tabstop=2 softtabstop=2 shiftwidth=2:
 {application, gen_http,
   [ {description , "An experimental, generic HTTP interface with pluggable client implementations."}
-  , {vsn         , "0.0.0"}
+  , {vsn         , "0.1.0"}
   , {registered  , []}
   , {applications,
       [ kernel
